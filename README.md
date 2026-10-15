@@ -4,7 +4,7 @@
 J'aime les projets qui touchent au réel : capteurs, bus de terrain, vision, et les
 applications qui servent à de vraies équipes.
 
-**Langages et outils** : C · C++ · Python · Go · TypeScript · MATLAB/Simulink · LaTeX · Docker · Linux
+**Langages et outils** : C · C++ · C# · Python · Go · TypeScript · MATLAB/Simulink · LaTeX · Docker · Linux
 
 #### Projets
 
