@@ -14,5 +14,4 @@ applications qui servent à de vraies équipes.
   le portail de notes de la HEIG-VD et notifie chaque nouvelle note.
 - **[Présences jeunesse](https://github.com/tom-berthoud/jeunesse)** — PWA Next.js + Supabase
   utilisée par le comité d'une société de jeunesse, avec RLS et sauvegardes chiffrées.
-- **[Formulaire de régulation](https://github.com/tom-berthoud/regulformulaire)** — formulaire LaTeX
-  de régulation automatique, compilé en PDF par GitHub Actions.
+
